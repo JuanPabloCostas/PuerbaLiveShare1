@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Plantilla_Pago_Servicios/1.0.0": {
+        "runtime": {
+          "Plantilla_Pago_Servicios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plantilla_Pago_Servicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
