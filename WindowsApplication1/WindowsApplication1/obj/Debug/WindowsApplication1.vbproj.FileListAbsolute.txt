@@ -1,0 +1,13 @@
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form2.resources
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form3.resources
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\valen\documents\visual studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+C:\Users\valen\Documents\Visual Studio 2013\Projects\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form4.resources
