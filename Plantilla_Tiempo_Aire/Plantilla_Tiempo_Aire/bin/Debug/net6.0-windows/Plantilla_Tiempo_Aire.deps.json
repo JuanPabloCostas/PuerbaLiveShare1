@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Plantilla_Tiempo_Aire/1.0.0": {
+        "runtime": {
+          "Plantilla_Tiempo_Aire.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Plantilla_Tiempo_Aire/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
