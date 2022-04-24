@@ -69,6 +69,8 @@
     End Sub
 
     Private Sub BtnBorrar_Click(sender As Object, e As EventArgs) Handles BtnBorrar.Click
+        If (TbxNumero.Text.Length <> 0) Then
         TbxNumero.Text = TbxNumero.Text.Remove(TbxNumero.Text.Length - 1)
-    End Sub
+        End If
+       End Sub
 End Class
